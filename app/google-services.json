@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "851098743995",
+    "project_id": "drive-demo-77ee0",
+    "storage_bucket": "drive-demo-77ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851098743995:android:096cb40e84592c0212e59e",
+        "android_client_info": {
+          "package_name": "br.com.apkdoandroid.mydrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851098743995-sa0ipskufuqpk3jti684e2pocgrm781l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.apkdoandroid.mydrive",
+            "certificate_hash": "17d9e8154d36f31ce14064e4a2d5584777f414dd"
+          }
+        },
+        {
+          "client_id": "851098743995-b4ip966hbc0l5c29kkj0dvn3b4lt7572.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxKp55zoE6wau3RxpL9LusPyVaag4srw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851098743995-b4ip966hbc0l5c29kkj0dvn3b4lt7572.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
